@@ -2,8 +2,13 @@
 content_type: resource
 description: 'Example of student work: Zomnir, Michael. "An Examination of the Role
   of Evil in the World as it is Considered in the Works of Leibniz and Darwin."'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/cccc0ab649623c8cd12e8c94fe38ed28_essay2_zomnir.pdf
+file: /media/courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/cccc0ab649623c8cd12e8c94fe38ed28_essay2_zomnir.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: An Examination of the Role of Evil in the World as it is Considered in the
   Works of Leibniz and Darwin
