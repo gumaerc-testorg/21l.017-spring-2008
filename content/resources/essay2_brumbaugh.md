@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 216877ea-86d9-9379-3c6f-052f7e942799
 resourcetype: Document
 title: Candide, Beyond the Satire on Leibniz
 uid: 3f00af71-d7d5-2c7c-cc75-a461c02d782a

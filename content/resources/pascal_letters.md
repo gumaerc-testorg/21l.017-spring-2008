@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 6cba421d-9567-3fb5-75df-edb9518eb54e
 resourcetype: Document
 title: "Pense\xE9s and The Provincial Letters"
 uid: cfdfd521-0336-890f-fd58-8e1f4bae67fe

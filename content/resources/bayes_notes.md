@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 6cba421d-9567-3fb5-75df-edb9518eb54e
 resourcetype: Document
 title: An Essay towards solving a Problem in the Doctrine of Chances
 uid: 24e97480-72d5-d3cb-aaab-acbe1f3da3bd

@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 6cba421d-9567-3fb5-75df-edb9518eb54e
 resourcetype: Document
 title: Excerpts from The Origin of Species
 uid: 377cdb42-5325-f7b4-adee-f370f61225be

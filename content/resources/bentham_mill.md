@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 6cba421d-9567-3fb5-75df-edb9518eb54e
 resourcetype: Document
 title: Excerpts from Jeremy Bentham and John Stuart Mill
 uid: ee006f5e-b1eb-8659-7790-e14fd02d4f59

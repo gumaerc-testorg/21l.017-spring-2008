@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 216877ea-86d9-9379-3c6f-052f7e942799
 resourcetype: Document
 title: Links between Human Rationality and Animal Savagery in The Island of Dr. Moreau
 uid: ab1f6fc8-05a8-41bb-8ec0-09a6638dce15

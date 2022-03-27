@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 216877ea-86d9-9379-3c6f-052f7e942799
 resourcetype: Document
 title: An Examination of the Role of Evil in the World as it is Considered in the
   Works of Leibniz and Darwin

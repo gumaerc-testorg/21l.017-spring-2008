@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 216877ea-86d9-9379-3c6f-052f7e942799
 resourcetype: Document
 title: "Exploring the Philosophy of Purpose in Voltaire\u2019s Candide"
 uid: be3a7de0-32c7-8e53-47fb-ee9b50e513c4

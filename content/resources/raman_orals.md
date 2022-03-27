@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 216877ea-86d9-9379-3c6f-052f7e942799
 resourcetype: Document
 title: Oral Presentation Guidelines
 uid: 5d16ab6b-291d-62c1-d1d2-f672bc78b78a

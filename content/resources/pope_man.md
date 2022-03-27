@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 6cba421d-9567-3fb5-75df-edb9518eb54e
 resourcetype: Document
 title: Excerpts from An Essay on Man
 uid: b81013d2-b7bb-6ca0-506c-d86c1dd968cb

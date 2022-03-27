@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 6cba421d-9567-3fb5-75df-edb9518eb54e
 resourcetype: Document
 title: 'Hume: Basic Outline'
 uid: c2f3cafe-e6ca-778b-65c2-a3a6c6ae5605

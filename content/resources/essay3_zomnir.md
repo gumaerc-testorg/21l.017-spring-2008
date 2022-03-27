@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 216877ea-86d9-9379-3c6f-052f7e942799
 resourcetype: Document
 title: "On the Erroneous Consideration of Wells\u2019 Dr. Moreau as an Allegory for\
   \ Darwin\u2019s Theory of Natural Selection"

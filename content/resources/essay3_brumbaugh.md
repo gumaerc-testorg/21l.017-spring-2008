@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 216877ea-86d9-9379-3c6f-052f7e942799
 resourcetype: Document
 title: Inconsistency and Chance in Rosencrantz and Guildenstern are Dead
 uid: 236eb20e-9aa8-abd8-c070-7e0617c83fc1

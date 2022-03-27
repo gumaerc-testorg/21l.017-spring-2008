@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 6cba421d-9567-3fb5-75df-edb9518eb54e
 resourcetype: Document
 title: A Treatise on Man and the Development of His Faculties
 uid: 81368dd2-d304-a171-061c-9c3fc29362da

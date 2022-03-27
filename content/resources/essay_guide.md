@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 216877ea-86d9-9379-3c6f-052f7e942799
 resourcetype: Document
 title: General Guidelines for Essay Assignments
 uid: 9fd6ff16-6f3e-f32a-5e54-73e86221d6fe
