@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides information on course organization, meeting
+  times, readings, class objectives, requirements and grading, the schedule of classes
+  and readings, working with the tutor, self-assessments, and the literature section
+  policy on plagiarism.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -23,7 +27,7 @@ Each week this subject pairs a literary text (or texts) with primary material re
 Readings
 --------
 
-There are two sorts of readings: texts to be purchased and other readings that are provided in the [readings]({{< baseurl >}}/pages/readings) section.
+There are two sorts of readings: texts to be purchased and other readings that are provided in the {{% resource_link 6cba421d-9567-3fb5-75df-edb9518eb54e "readings" %}} section.
 
 **Note:** You will be expected to **print** out the downloaded readings, read them in hardcopy, and bring the printed texts to class. You will **not** be allowed to use your computer in class to access them: reading texts off the screen is generally not conducive to active and careful reading; you need to be underlining and taking notes as you read. And neither does speaking to a bank of laptops make for good class discussion.
 
@@ -39,7 +43,7 @@ Voltaire. _Candide_. Translated by John Butt. New York, NY: Penguin Classics, 19
 
 Sterne, Lawrence. _A Sentimental Journey_. New York, NY: Penguin Classics, 2002. ISBN: 9780140437799.
 
- Dostoevsky, Fyodor. "Notes From Underground." In _Notes from Underground, The Double and Other Stories_. Edited by D. A. Martinsen, translated by C. Garnett. New York, NY: Barnes Noble Classics, 2003. ISBN: 9781593080372. \[Public domain version ([PDF]({{< baseurl >}}/resources/notes_under))\]
+ Dostoevsky, Fyodor. "Notes From Underground." In _Notes from Underground, The Double and Other Stories_. Edited by D. A. Martinsen, translated by C. Garnett. New York, NY: Barnes Noble Classics, 2003. ISBN: 9781593080372. \[Public domain version ({{% resource_link 9ea04588-4b03-e5d8-00b3-3497573b85e1 "PDF" %}})\]
 
 Wells, H. G. _The Island of Dr. Moreau_. New York, NY: Signet Classics, 2005. ISBN: 9780451529893.
 
