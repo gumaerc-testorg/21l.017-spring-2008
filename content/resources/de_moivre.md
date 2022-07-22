@@ -6,6 +6,7 @@ file: /courses/21l-017-the-art-of-the-probable-literature-and-probability-spring
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Excerpt from The Doctrine of Chancesde_Excerpt from The Doctrine of Chanc
 uid: 70a0cf31-4418-9343-e0a3-ca49a025984a
 ---
 Reading for the course: De Moivre, A. Excerpt from The Doctrine of Chances: or, A Method of Calculating the Probabilities of Events in Play. 3rd ed., 1756.
-

@@ -6,6 +6,7 @@ file: /courses/21l-017-the-art-of-the-probable-literature-and-probability-spring
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Action and Uncertainty in Pascal\u2019s Wager and Shakespeare\u2019s Ham
 uid: e6d89a9a-f524-6489-b227-b9de72accd71
 ---
 Example of student work: Brumbaugh, Victoria. "Action and Uncertainty in Pascal's Wager and Shakespeare's Hamlet."
-

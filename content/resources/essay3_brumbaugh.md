@@ -6,6 +6,7 @@ file: /courses/21l-017-the-art-of-the-probable-literature-and-probability-spring
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Inconsistency and Chance in Rosencrantz and Guildenstern are Dead
 uid: 236eb20e-9aa8-abd8-c070-7e0617c83fc1
 ---
 Example of student work: Brumbaugh, Victoria. "Inconsistency and Chance in Rosencrantz and Guildenstern are Dead."
-

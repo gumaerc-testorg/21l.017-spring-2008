@@ -5,6 +5,7 @@ file: /courses/21l-017-the-art-of-the-probable-literature-and-probability-spring
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Hume: Basic Outline'
 uid: c2f3cafe-e6ca-778b-65c2-a3a6c6ae5605
 ---
 Lecture outline on the basics of David Hume.
-

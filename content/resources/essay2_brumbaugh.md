@@ -6,6 +6,7 @@ file: /courses/21l-017-the-art-of-the-probable-literature-and-probability-spring
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Candide, Beyond the Satire on Leibniz
 uid: 3f00af71-d7d5-2c7c-cc75-a461c02d782a
 ---
 Example of student work: Brumbaugh, Victoria. "Candide, Beyond the Satire on Leibniz."
-

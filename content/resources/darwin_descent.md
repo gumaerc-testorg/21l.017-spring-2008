@@ -6,6 +6,7 @@ file: /courses/21l-017-the-art-of-the-probable-literature-and-probability-spring
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Excerpts from Descent of Man
 uid: 33e9e407-b291-1c63-f78f-5d7d7090299a
 ---
 Darwin, Charles. Descent of Man. Excerpts from Chapter XXI - General Summary and Conclusion, abridged and elided for the sake of continuity, 1871.
-

@@ -6,6 +6,7 @@ file: /courses/21l-017-the-art-of-the-probable-literature-and-probability-spring
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: "On the Erroneous Consideration of Wells\u2019 Dr. Moreau as an Allegory 
 uid: be0291ae-93cd-8d8c-40ac-0cf1789e8b01
 ---
 Example of student work: Zomnir, Michael. "On the Erroneous Consideration of Wells' Dr. Moreau as an Allegory for Darwin's Theory of Natural Selection."
-

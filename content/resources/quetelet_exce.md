@@ -7,6 +7,7 @@ file: /courses/21l-017-the-art-of-the-probable-literature-and-probability-spring
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: A Treatise on Man and the Development of His Faculties
 uid: 81368dd2-d304-a171-061c-9c3fc29362da
 ---
 Reading for the course: Quetelet, M. A. A Treatise on Man and the Development of His Faculties. Edinburgh, Scotland: William and Robert Chambers, 1842, pp. iii-x, 98-101, and 103-105, preface, book four chapter I.2-I.3 and chapter II (excerpt).
-

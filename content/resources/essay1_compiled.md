@@ -5,6 +5,7 @@ file: /courses/21l-017-the-art-of-the-probable-literature-and-probability-spring
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Essay 1 Assignment
 uid: e5c1fb25-8758-f376-662c-98203314693e
 ---
 Compiled essay topics from all three instructors for Essay 2.
-

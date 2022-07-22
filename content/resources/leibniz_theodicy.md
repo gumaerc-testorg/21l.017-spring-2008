@@ -7,6 +7,7 @@ file: /courses/21l-017-the-art-of-the-probable-literature-and-probability-spring
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Abridgement of the Argument
 uid: d5105f66-9062-d197-92e6-4ecc09a1456e
 ---
 Reading for the course: Leibniz, Gottfried Wilhelm. "Abridgement of the Argument" In Theodicy. Translated by G. M. Duncan, 1890. Adapted and emended by Prof. A. C. Kibel.
-

@@ -6,6 +6,7 @@ file: /courses/21l-017-the-art-of-the-probable-literature-and-probability-spring
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Lines, Composed a Few Miles above Tintern Abbey on Revisiting the Wye Dur
 uid: 8b97606c-03c5-2636-16a6-77ce1198ff0c
 ---
 Reading for the course: Wordworth, William. "Lines, Composed a Few Miles above Tintern Abbey on Revisiting the Wye During a Tour." July 13, 1798.
-
