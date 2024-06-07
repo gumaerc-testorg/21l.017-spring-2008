@@ -4,6 +4,7 @@ description: 'Reading for the course: Newton, Sir Isaac. Selections from "The Me
   of Natural Philosophy," "Collected Letters," and "The Third Book of Opticks, Part
   I."'
 file: /courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/244330b6275c39461d73c06fe2d1bc90_newton.pdf
+file_size: 147114
 file_type: application/pdf
 learning_resource_types:
 - Readings

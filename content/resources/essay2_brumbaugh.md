@@ -3,6 +3,7 @@ content_type: resource
 description: 'Example of student work: Brumbaugh, Victoria. "Candide, Beyond the Satire
   on Leibniz."'
 file: /courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/3f00af71d7d52c7ccc75a461c02d782a_essay2_brumbaugh.pdf
+file_size: 72074
 file_type: application/pdf
 learning_resource_types:
 - Assignments
