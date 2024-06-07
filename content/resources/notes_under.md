@@ -4,6 +4,7 @@ description: 'Reading for the course: Dostoevsky, Fyodor. "Notes From Undergroun
   In Notes from Underground, The Double and Other Stories. Edited by D. A. Martinsen,
   translated by C. Garnett. New York, NY: Barnes Noble Classics, 2003. ISBN: 9781593080372.'
 file: /courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/9ea045884b03e5d800b33497573b85e1_notes_under.pdf
+file_size: 435458
 file_type: application/pdf
 learning_resource_types:
 - Readings

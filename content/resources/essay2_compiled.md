@@ -2,6 +2,7 @@
 content_type: resource
 description: Compiled essay topics from all three instructors for Essay 2.
 file: /courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/9a810cd53717647b77ee925c87e62fcf_essay2_compiled.pdf
+file_size: 78317
 file_type: application/pdf
 learning_resource_types:
 - Assignments
