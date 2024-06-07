@@ -2,6 +2,7 @@
 content_type: resource
 description: Guidelines for an oral presentation assignment.
 file: /courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/5d16ab6b291d62c1d1d2f672bc78b78a_raman_orals.pdf
+file_size: 109912
 file_type: application/pdf
 learning_resource_types:
 - Assignments

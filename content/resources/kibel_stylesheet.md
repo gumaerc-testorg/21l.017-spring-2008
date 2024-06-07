@@ -3,6 +3,7 @@ content_type: resource
 description: Guidelines for understanding the professors' margin notations on written
   assignments.
 file: /courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/2d176d1cf31a92bfa2431978737b7316_kibel_stylesheet.pdf
+file_size: 90255
 file_type: application/pdf
 learning_resource_types:
 - Assignments

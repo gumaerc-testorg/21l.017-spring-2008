@@ -3,6 +3,7 @@ content_type: resource
 description: 'Reading for the course: Pope, Alexander. Excerpts from An Essay on Man,
   1734.'
 file: /courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/b81013d2b7bb6ca0506cd86c1dd968cb_pope_man.pdf
+file_size: 106342
 file_type: application/pdf
 learning_resource_types:
 - Readings
