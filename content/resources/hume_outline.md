@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture outline on the basics of David Hume.
-file: /ol-ocw-studio-app/courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/c2f3cafee6ca778b65c2a3a6c6ae5605_hume_outline.pdf
+file: /courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/c2f3cafee6ca778b65c2a3a6c6ae5605_hume_outline.pdf
 file_size: 77300
 file_type: application/pdf
 learning_resource_types:
