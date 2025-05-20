@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Example of student work: Brumbaugh, Victoria. "Inconsistency and Chance
   in Rosencrantz and Guildenstern are Dead."'
-file: /ol-ocw-studio-app/courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/236eb20e9aa8abd8c0707e0617c83fc1_essay3_brumbaugh.pdf
+file: /courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/236eb20e9aa8abd8c0707e0617c83fc1_essay3_brumbaugh.pdf
 file_size: 75210
 file_type: application/pdf
 learning_resource_types:

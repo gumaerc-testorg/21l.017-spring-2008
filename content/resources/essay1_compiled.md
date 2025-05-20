@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Compiled essay topics from all three instructors for Essay 2.
-file: /ol-ocw-studio-app/courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/e5c1fb258758f376662c98203314693e_essay1_compiled.pdf
+file: /courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/e5c1fb258758f376662c98203314693e_essay1_compiled.pdf
 file_size: 66232
 file_type: application/pdf
 learning_resource_types:

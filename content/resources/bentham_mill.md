@@ -3,7 +3,7 @@ content_type: resource
 description: 'Reading for the course: Excerpts from Jeremy Bentham, "An Introduction
   to the Principles of Morals and Legislation," (1789); and John Stuart Mill, "Utilitarianism."
   (1861).'
-file: /ol-ocw-studio-app/courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/ee006f5eb1eb86597790e14fd02d4f59_bentham_mill.pdf
+file: /courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/ee006f5eb1eb86597790e14fd02d4f59_bentham_mill.pdf
 file_size: 118737
 file_type: application/pdf
 learning_resource_types:

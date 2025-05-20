@@ -3,7 +3,7 @@ content_type: resource
 description: 'Reading for the course: Leibniz, Gottfried Wilhelm. "Abridgement of
   the Argument" In Theodicy. Translated by G. M. Duncan, 1890. Adapted and emended
   by Prof. A. C. Kibel.'
-file: /ol-ocw-studio-app/courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/d5105f669062d19792e64ecc09a1456e_leibniz_theodicy.pdf
+file: /courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/d5105f669062d19792e64ecc09a1456e_leibniz_theodicy.pdf
 file_size: 81470
 file_type: application/pdf
 learning_resource_types:
