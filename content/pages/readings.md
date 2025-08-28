@@ -27,8 +27,8 @@ Cardano, Gerolamo. Section 11, end of Section 14, beginning for Section 15, and 
 
 Pascal, Blaise. *Penseés and The Provincial Letters*. Translated by Thomas M'Crie. New York, NY: The Modern Library, 1941, pp. 380-383 and 388-393, provincial letters 5 and 6 (excerpts). ({{% resource_link "cfdfd521-0336-890f-fd58-8e1f4bae67fe" "PDF" %}})
 
-Correspondence between Blaise Pascal and Perre Fermat on "The Problem of Points," 1654.   
- (a) Pascal to Fermat, July 29; (b) Pascal to Fermat, August 24; (c) Fermat to Pascal, August 29 in *A Source Book in Mathematics*. Translated by Vera Stanford, edited by D. E. Smith. Mineola, NY: Dover Publications, 1984. ISBN: 9780486646909.   
+Correspondence between Blaise Pascal and Perre Fermat on "The Problem of Points," 1654.     
+ (a) Pascal to Fermat, July 29; (b) Pascal to Fermat, August 24; (c) Fermat to Pascal, August 29 in *A Source Book in Mathematics*. Translated by Vera Stanford, edited by D. E. Smith. Mineola, NY: Dover Publications, 1984. ISBN: 9780486646909.     
 (d) Fermat to Pascal September 25; (e) Pascal to Fermat, October 27 in *Games, Gods and Gambling*. Translated by Maxine Merrington, edited by F. N. David. Mineola, NY: Dover Publications, 1998. ISBN: 9780486400235.
 
 Pascal, Blaise. "Discourse Concerning the Machine." Chapter XLV in *Penseés and Other Writings*. New York, NY: Oxford University Press, 1995, pp. 153-58. ISBN: 9780192829900.
@@ -127,7 +127,7 @@ Borges, Jorge Luis. "The Garden of Forking Paths," "The Lottery in Babylon," "Pi
 
 Mallarmé, Stéphane. "Preface," and "A Throw of the Dice (*Un Coup De Dés*) (1914)." In *Collected Poems*. Translated by Henry Weinfield. Berkeley, CA: University of California Press, 1996, pp. 121-144. ISBN: 9780520207110.
 
-Peirce, Charles. "[The Doctrine of Necessity Examined](http://danmahony.com/peirce1892a.htm)." *The Monist* 2, no. 3 (April 1892): 321-337.
+Peirce, Charles. "[The Doctrine of Necessity Examined](https://scrcexhibits.omeka.net/exhibits/show/charles-s-peirce-open-court/the-doctrine-of-necessity)." *The Monist* 2, no. 3 (April 1892): 321-337.
 
 ## Week 12: Pychon, Boltzmann
 
