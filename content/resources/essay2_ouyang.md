@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Example of student work: Ouyang, Annie. "Exploring the Philosophy of
   Purpose in Voltaire''s Candide."'
-file: /courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/be3a7de032c78e5347fbee9b50e513c4_essay2_ouyang.pdf
+file: /ol-ocw-studio-app/courses/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/be3a7de032c78e5347fbee9b50e513c4_essay2_ouyang.pdf
 file_size: 71900
 file_type: application/pdf
 learning_resource_types:
