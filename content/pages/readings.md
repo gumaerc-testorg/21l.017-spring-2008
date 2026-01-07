@@ -37,19 +37,19 @@ Pascal, Blaise. "Discourse Concerning the Machine." Chapter XLV in *Penseés and
 
 Newton, Sir Isaac. Selections from "The Method of Natural Philosophy," "Collected Letters," and "The Third Book of Opticks, Part I." ({{% resource_link "244330b6-275c-3946-1d73-c06fe2d1bc90" "PDF" %}})
 
-Leibniz, Gottfried Wilhelm. "Preface to the General Sciences." In *Leibniz: Selections*. Edited by Philip P. Wiener. New York, NY: Charles Scribner's Sons, 1951, pp. 12-16. ISBN: 9780684125510. ({{% resource_link "f635397d-3ee4-4a41-a2f4-a51b82887b37" "Download" %}} an alternate translation; read just the first section.)
+Leibniz, Gottfried Wilhelm. "Preface to the General Sciences." In *Leibniz: Selections*. Edited by Philip P. Wiener. New York, NY: Charles Scribner's Sons, 1951, pp. 12-16. ISBN: 9780684125510. ([Download](http://www.rbjones.com/rbjpub/philos/classics/leibniz/meth_math.htm) an alternate translation; read just the first section.)
 
 ———. "Abridgement of the Argument" In *Theodicy*. Translated by G. M. Duncan, 1890. Adapted and emended by Prof. A. C. Kibel. ({{% resource_link "d5105f66-9062-d197-92e6-4ecc09a1456e" "PDF" %}})
 
 Pope, Alexander. Excerpts from *An Essay on Man*, 1734. ({{% resource_link "b81013d2-b7bb-6ca0-506c-d86c1dd968cb" "PDF" %}})
 
-Huygens, Christiaan. "*Preface* to Franciscus van Schooten," in Bernoulli, Jacob. *The Art of Conjecturing, Together with Letter to a Friend on Sets in Court Tennis*. Translated by Edith Dudley Sylla. Baltimore, MD: Johns Hopkins University Press, 2005, pp. 131-134. ISBN: 9780801882357. ({{% resource_link "4f146d42-da03-47c8-82cb-b4d6e9474362" "View" %}} this work in Google Books.)
+Huygens, Christiaan. "*Preface* to Franciscus van Schooten," in Bernoulli, Jacob. *The Art of Conjecturing, Together with Letter to a Friend on Sets in Court Tennis*. Translated by Edith Dudley Sylla. Baltimore, MD: Johns Hopkins University Press, 2005, pp. 131-134. ISBN: 9780801882357. ([View](http://books.google.com/books?id=-xgwSAjTh34C&pg=PAfrontcover) this work in Google Books.)
 
 De Moivre, A. Excerpt from *The Doctrine of Chances: or, A Method of Calculating the Probabilities of Events in Play*. 3rd ed., 1756. ({{% resource_link "70a0cf31-4418-9343-e0a3-ca49a025984a" "PDF" %}})
 
 ## Week 4: Leibniz, Port Royal, Voltaire
 
-Nicole, Pierre, and Atoine Arnauld. *Logic, or The Art of Thinking* (aka "Port-Royal Logic."). Translated by Jill Vance Buroker. New York, NY: Cambridge University Press, 1996, pp. 262-65 and 272-75, fourth part, chapters 13, 15, and 16. ISBN: 9780521483940. ({{% resource_link "2228912c-f1fa-4d91-8f13-84a97e477048" "View" %}} this work in Google Books; {{% resource_link "ca441035-d22b-45c4-a73d-05ae459f07a1" "download" %}} the complete book in a different translation (Thomas Spencer Baynes, 1850) from the Internet Archive.)
+Nicole, Pierre, and Atoine Arnauld. *Logic, or The Art of Thinking* (aka "Port-Royal Logic."). Translated by Jill Vance Buroker. New York, NY: Cambridge University Press, 1996, pp. 262-65 and 272-75, fourth part, chapters 13, 15, and 16. ISBN: 9780521483940. ([View](http://books.google.com/books?id=2dBA9kEx47MC&pg=PAfrontcover) this work in Google Books; [download](http://www.archive.org/details/artofthinking00arnauoft) the complete book in a different translation (Thomas Spencer Baynes, 1850) from the Internet Archive.)
 
 Leibniz, Gottfried Wilhelm. Excerpts from *Leibniz: Selections*. Edited by Philip P. Wiener. New York, NY: Charles Scribner's Sons, 1951, pp. 82-83, 85-87, 94-96. ISBN: 9780684125510.
 
@@ -57,7 +57,7 @@ Leibniz, Gottfried Wilhelm. Excerpts from *Leibniz: Selections*. Edited by Phili
 
 Voltaire. *Candide*. Translated by John Butt. New York, NY: Penguin Classics, 1950. ISBN: 9780140440041.
 
-———. "*Bien (tout est):* All is good," "*Certain, certitude*: Certain, certainty," and "*Nécessaire*: Necessary." In *Philosophical Dictionary*. Edited and translated by Theodore Besterman. New York, NY: Penguin, 1984, pp. 68-74, 105-107, and 323-325. ISBN: 9780140442571. ({{% resource_link "801549ab-d774-4bdb-888c-33688f200e24" "Download" %}} an alternate translation of this work from Project Gutenberg.)
+———. "*Bien (tout est):* All is good," "*Certain, certitude*: Certain, certainty," and "*Nécessaire*: Necessary." In *Philosophical Dictionary*. Edited and translated by Theodore Besterman. New York, NY: Penguin, 1984, pp. 68-74, 105-107, and 323-325. ISBN: 9780140442571. ([Download](http://www.archive.org/details/voltairesphiloso18569gut) an alternate translation of this work from Project Gutenberg.)
 
 ## Weeks 5-6: Hume, Sterne
 
@@ -79,13 +79,13 @@ Hume, David. "Of Personal Identity." Book 1, Part IV, Section VI in *A Treatise 
 
 Wordsworth, William. "The Thorn." In *William Wordsworth*: *The Major Works*. Edited by Stephen Gill. New York, NY: Oxford University Press, 2008, pp. 59-66. ISBN: 9780199536863.
 
-Coleridge, Samuel Taylor. "The Rime of the Ancient Mariner." In *The Rime of the Ancient Mariner and Other Poems*. Mineola, NY: Dover Publications, 1992. ISBN:9780486272665. ({{% resource_link "e5325817-c5c2-47ee-8ebf-f0d3e0f9d46f" "Download" %}} a version of this poem from the Project Gutenberg.)
+Coleridge, Samuel Taylor. "The Rime of the Ancient Mariner." In *The Rime of the Ancient Mariner and Other Poems*. Mineola, NY: Dover Publications, 1992. ISBN:9780486272665. ([Download](http://www.gutenberg.org/files/151/151-h/151-h.htm) a version of this poem from the Project Gutenberg.)
 
-Byron, Lord. Canto II, stanzas 1-108, from *Don Juan*. In *Lord Byron: The Major Works*. Edited by Jerome J. McGann. New York, NY: Oxford University Press, 2008. ISBN: 9780199537334. ({{% resource_link "08f7958d-addd-40dc-be81-d0d1473ca45a" "Download" %}} a version of this poem from Project Gutenberg.)
+Byron, Lord. Canto II, stanzas 1-108, from *Don Juan*. In *Lord Byron: The Major Works*. Edited by Jerome J. McGann. New York, NY: Oxford University Press, 2008. ISBN: 9780199537334. ([Download](http://www.gutenberg.org/etext/21700) a version of this poem from Project Gutenberg.)
 
 *Optional*
 
-Hartley, David. "To Explain the Nature of Assent and Dissent, and to Show from What Causes They Arise." Chapter III, Section II, Prop. 86 in *Observations on Man, His Frame, His Duty, and His Expectations*. Gainsville, FL: Scholarly Facsimiles, 1966 (reproduction of 1749 edition), pp. 324-334. ({{% resource_link "97a97e15-2708-4232-8431-c33d1a450844" "View" %}} a different edition of this work in Google Books, pp. 204-210.)
+Hartley, David. "To Explain the Nature of Assent and Dissent, and to Show from What Causes They Arise." Chapter III, Section II, Prop. 86 in *Observations on Man, His Frame, His Duty, and His Expectations*. Gainsville, FL: Scholarly Facsimiles, 1966 (reproduction of 1749 edition), pp. 324-334. ([View](http://books.google.com/books?id=OVwPAAAAIAAJ&pg=PA323&source=gbs_toc_r&cad=0_0#PPA204,M1) a different edition of this work in Google Books, pp. 204-210.)
 
 *For Prof. Kibel's students*
 
@@ -93,7 +93,7 @@ Wordworth, William. "Lines, Composed a Few Miles above Tintern Abbey on Revisiti
 
 ## Week 8: Bernoulli, Laplace, Bayes
 
-Bernoulli, Jacob. "The Use and Application of the Preceding Doctrine in Civil, Moral, and Economic Matters." Part Four in *The Art of Conjecturing, Together with Letter to a Friend on Sets in Court Tennis*. Translated by Edith Dudley Sylla. Baltimore, MD: Johns Hopkins University Press, 2005, pp. 315-339. ISBN: 9780801882357. ({{% resource_link "4f146d42-da03-47c8-82cb-b4d6e9474362" "View" %}} this work in Google Books.)
+Bernoulli, Jacob. "The Use and Application of the Preceding Doctrine in Civil, Moral, and Economic Matters." Part Four in *The Art of Conjecturing, Together with Letter to a Friend on Sets in Court Tennis*. Translated by Edith Dudley Sylla. Baltimore, MD: Johns Hopkins University Press, 2005, pp. 315-339. ISBN: 9780801882357. ([View](http://books.google.com/books?id=-xgwSAjTh34C&pg=PAfrontcover) this work in Google Books.)
 
 Bayes, Rev. Thomas. "An Essay towards solving a Problem in the Doctrine of Chances," with Prof. Raman's notes on the Essay ({{% resource_link "24e97480-72d5-d3cb-aaab-acbe1f3da3bd" "PDF" %}})
 
@@ -127,7 +127,7 @@ Borges, Jorge Luis. "The Garden of Forking Paths," "The Lottery in Babylon," "Pi
 
 Mallarmé, Stéphane. "Preface," and "A Throw of the Dice (*Un Coup De Dés*) (1914)." In *Collected Poems*. Translated by Henry Weinfield. Berkeley, CA: University of California Press, 1996, pp. 121-144. ISBN: 9780520207110.
 
-Peirce, Charles. "{{% resource_link "95130ea2-af7d-4ce0-808a-3b56717b5c54" "The Doctrine of Necessity Examined" %}}." *The Monist* 2, no. 3 (April 1892): 321-337.
+Peirce, Charles. "[The Doctrine of Necessity Examined](https://scrcexhibits.omeka.net/exhibits/show/charles-s-peirce-open-court/the-doctrine-of-necessity)." *The Monist* 2, no. 3 (April 1892): 321-337.
 
 ## Week 12: Pychon, Boltzmann
 
